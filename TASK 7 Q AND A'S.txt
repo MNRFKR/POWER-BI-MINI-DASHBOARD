@@ -1,0 +1,10 @@
+What is a KPI and why is it used?
+A KPI (Key Performance Indicator) is a metric like Sales or Profit that tracks business performance; it’s used to quickly show whether goals are being met.
+Difference between Measures and Calculated Columns?
+Measures are calculations done on the fly (like SUM of Sales) and change with filters, while Calculated Columns are stored values created row‑by‑row in the dataset.
+Why slicers are important in dashboards?
+Slicers let users filter data interactively, making visuals respond instantly and allowing focused analysis without changing the underlying dataset.
+What makes a dashboard professional?
+Professional dashboards have aligned visuals, consistent themes, clear titles, and KPI cards that highlight key metrics in a clean, executive‑ready layout.
+How do you ensure visuals match business requirements?
+You validate by testing slicers, checking measures, and confirming visuals reflect the intended metrics and insights stakeholders need.

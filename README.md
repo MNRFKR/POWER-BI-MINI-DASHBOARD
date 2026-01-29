@@ -1,4 +1,4 @@
-# POWER-BI-MINI-DASHBOARD
+#TASK7: POWER-BI-MINI-DASHBOARD
 Step 1 – Data Import & Setup
 I used the market_fact dataset and confirmed fields like Sales, Profit, Order Quantity, and Prod_id. This was the base table I deployed for all visuals.
 Step 2 – Data Cleaning & Relationships
